@@ -1,0 +1,6 @@
+{
+  "appId": "com.clinic.app",
+  "appName": "Clinic App",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
